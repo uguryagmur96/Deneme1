@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Uður\Desktop\deneme1\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3295470908.index
+849343190.index
